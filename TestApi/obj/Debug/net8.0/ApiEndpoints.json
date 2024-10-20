@@ -1,0 +1,53 @@
+[
+  {
+    "ContainingType": "TestApi.Controllers.MyFirstController",
+    "Method": "GetAllUsers",
+    "RelativePath": "MyFirst/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.MyFirstController",
+    "Method": "GetDefaultUser",
+    "RelativePath": "MyFirst/GetDefaultUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.MyFirstController",
+    "Method": "GetFirstUser",
+    "RelativePath": "MyFirst/GetFirstUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.MyFirstController",
+    "Method": "LoginCheck",
+    "RelativePath": "MyFirst/LoginCheck",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
