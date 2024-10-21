@@ -1,33 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "U:\\Proj\\TestApi\\",
+  "WorkspaceRootPath": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\model\\apidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:model\\apidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\entity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:entity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|c:\\users\\upik\\desktop\\fapi\\testapi\\controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|c:\\users\\upik\\desktop\\fapi\\testapi\\model\\apidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:model\\apidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|c:\\users\\upik\\desktop\\fapi\\testapi\\entity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:entity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|c:\\users\\upik\\desktop\\fapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|c:\\users\\upik\\desktop\\fapi\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|c:\\users\\upik\\desktop\\fapi\\testapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,11 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApiDatabaseContext.cs",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\Model\\ApiDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Model\\ApiDatabaseContext.cs",
               "RelativeDocumentMoniker": "Model\\ApiDatabaseContext.cs",
-              "ToolTip": "U:\\Proj\\TestApi\\Model\\ApiDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Model\\ApiDatabaseContext.cs",
               "RelativeToolTip": "Model\\ApiDatabaseContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,47 +57,34 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\entity\\UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\entity\\UserDTO.cs",
               "RelativeDocumentMoniker": "entity\\UserDTO.cs",
-              "ToolTip": "U:\\Proj\\TestApi\\entity\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\entity\\UserDTO.cs",
               "RelativeToolTip": "entity\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T22:13:04.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T22:13:04.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestApi.csproj",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\TestApi.csproj",
-              "RelativeDocumentMoniker": "TestApi.csproj",
-              "ToolTip": "U:\\Proj\\TestApi\\TestApi.csproj",
-              "RelativeToolTip": "TestApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T22:05:59.131Z",
+              "DocumentIndex": 0,
+              "Title": "MyFirstController.cs",
+              "DocumentMoniker": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Controllers\\MyFirstController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyFirstController.cs",
+              "ToolTip": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Controllers\\MyFirstController.cs",
+              "RelativeToolTip": "Controllers\\MyFirstController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:08:25.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MyFirstController.cs",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\Controllers\\MyFirstController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MyFirstController.cs",
-              "ToolTip": "U:\\Proj\\TestApi\\Controllers\\MyFirstController.cs",
-              "RelativeToolTip": "Controllers\\MyFirstController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwCkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:08:25.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "U:\\Proj\\TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "U:\\Proj\\TestApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -121,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "U:\\Proj\\TestApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "U:\\Proj\\TestApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAABMAAAAAAAAAAAArwCMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
