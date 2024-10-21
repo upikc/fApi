@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "U:\\Proj\\TestApi\\TestApi.csproj": {}
+    "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "U:\\Proj\\TestApi\\TestApi.csproj": {
+    "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\TestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\Proj\\TestApi\\TestApi.csproj",
+        "projectUniqueName": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\TestApi.csproj",
         "projectName": "TestApi",
-        "projectPath": "U:\\Proj\\TestApi\\TestApi.csproj",
+        "projectPath": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\TestApi.csproj",
         "packagesPath": "C:\\Users\\upik\\.nuget\\packages\\",
-        "outputPath": "U:\\Proj\\TestApi\\obj\\",
+        "outputPath": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\upik\\AppData\\Roaming\\NuGet\\NuGet.Config",

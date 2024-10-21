@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1l0zf8Xl/0=",
+  "dgSpecHash": "F4klOuyD9tA=",
   "success": true,
-  "projectFilePath": "U:\\Proj\\TestApi\\TestApi.csproj",
+  "projectFilePath": "C:\\Users\\upik\\Desktop\\fApi\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\upik\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\upik\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
