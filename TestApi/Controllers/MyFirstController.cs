@@ -23,7 +23,7 @@ namespace TestApi.Controllers
                 return BadRequest();
             var user = DataContex.Users.FirstOrDefault(x => x.Login == login && x.Password == password);
             if (user != default)
-                return Ok(user.Id);
+                return Ok(user);
             else
                 return StatusCode(406);
 
