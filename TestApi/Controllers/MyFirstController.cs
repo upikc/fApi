@@ -23,7 +23,7 @@ namespace TestApi.Controllers
                 return BadRequest();
             var user = DataContex.Users.FirstOrDefault(x => x.Login == login && x.Password == password);
             if (user != default)
-                return Ok(user);
+                return Ok(new UserDTO(user));
             else
                 return StatusCode(406);
 
@@ -39,8 +39,8 @@ namespace TestApi.Controllers
             //foreach (var user in users)
             //    user.Notes = default;
 
-            var shops = DataContex.Users.ToList();
-            var data = shops.Select(s => new UserDTO(s)).ToArray();
+            var Users = DataContex.Users.ToList();
+            var data = Users.Select(s => new UserDTO(s)).ToArray();
 
 
 
