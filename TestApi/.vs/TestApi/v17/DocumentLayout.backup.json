@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:model\\apidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\entity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:entity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:controllers\\myfirstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:testapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76985F07-BB52-4CDF-8B04-4479BAFFD2E6}|TestApi.csproj|u:\\proj\\testapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Model\\ApiDatabaseContext.cs",
               "ToolTip": "U:\\Proj\\TestApi\\Model\\ApiDatabaseContext.cs",
               "RelativeToolTip": "Model\\ApiDatabaseContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAACEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T22:19:58.615Z",
               "EditorCaption": ""
@@ -67,11 +67,12 @@
               "RelativeToolTip": "entity\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T22:13:04.135Z"
+              "WhenOpened": "2024-10-20T22:13:04.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TestApi.csproj",
               "DocumentMoniker": "U:\\Proj\\TestApi\\TestApi.csproj",
               "RelativeDocumentMoniker": "TestApi.csproj",
@@ -79,11 +80,12 @@
               "RelativeToolTip": "TestApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-20T22:05:59.131Z"
+              "WhenOpened": "2024-10-20T22:05:59.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MyFirstController.cs",
               "DocumentMoniker": "U:\\Proj\\TestApi\\Controllers\\MyFirstController.cs",
               "RelativeDocumentMoniker": "Controllers\\MyFirstController.cs",
@@ -95,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "U:\\Proj\\TestApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
