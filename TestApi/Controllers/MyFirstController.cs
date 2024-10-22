@@ -30,10 +30,11 @@ namespace TestApi.Controllers
         }
 
         [HttpPost("CreateUser")]
-        public IActionResult CreateUser(string login, string password)
+        public IActionResult CreateUser([FromBody] string login, string password)
         {
             if (string.IsNullOrWhiteSpace(login) || string.IsNullOrWhiteSpace(password))
                 return BadRequest();
+
             if (DataContex.Users.FirstOrDefault(x => x.Login == login) != default)
                 return BadRequest();
             else
