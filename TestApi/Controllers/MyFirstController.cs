@@ -29,6 +29,25 @@ namespace TestApi.Controllers
 
         }
 
+        [HttpPost("CreateUser")]
+        public IActionResult CreateUser(string login, string password)
+        {
+            if (string.IsNullOrWhiteSpace(login) || string.IsNullOrWhiteSpace(password))
+                return BadRequest();
+            if (DataContex.Users.FirstOrDefault(x => x.Login == login) != default)
+                return BadRequest();
+            else
+            {
+                var newUser = new Model.User();
+                newUser.Login = login;
+                newUser.Password = password;
+                DataContex.Users.Add(newUser);
+                DataContex.SaveChanges();
+                return Ok();
+
+            }
+        }
+
 
         [HttpGet("GetAllUsers")]
         public IActionResult GetAllUsers()
